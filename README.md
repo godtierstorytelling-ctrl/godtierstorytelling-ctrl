@@ -76,8 +76,7 @@ I’m turning my multi-brand creative empire into a fully-tooled technological p
 - Game Engineering (Unity + Unreal Blueprint)
 - AI-assisted storytelling systems  
 - Worldbuilding engines  
-- Backend APIs + microservices  
-- Dream architecture (yes, literally)  
+- Backend APIs + microservices    
 - Cloud fundamentals (incoming 2028)
 
 ---
