@@ -78,8 +78,8 @@ Action. Hard choices. Thrills for days.
 
 ## 🖤 **Links from the Dark Net**
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="http://vanishareneepierce.com"><img src="https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vanisha-renee-pierce/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/godtierstorytelling-ctrl?tab=repositories"><img src="https://img.shields.io/badge/My%20Repos-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
