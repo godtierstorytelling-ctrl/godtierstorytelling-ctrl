@@ -1,16 +1,98 @@
-## Hi there 👋
+<!-- Cyber Noir Hacker Queen Profile README -->
 
-<!--
-**godtierstorytelling-ctrl/godtierstorytelling-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🖤⚡️ Vanisha “god-Tier” Pierce ⚡️🖤</h1>
+<h3 align="center">Full Stack Developer • Game Dev • Story Architect • Cyber-Noir Code Witch</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23BB86FC&size=22&center=true&vCenter=true&width=600&lines=Building+worlds+in+code+and+fiction.;Full+Stack+Engineer+in+progress.;Game+dev%2C+AI%2C+and+storycraft.;Rebel+Ragdoll+Games+%26+god-Tier+Storytelling.;Cyber+Noir+Dev+Queen+loading...">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🖤 **Who I Am**
+A story engineer evolving into a full-stack, game-dev, cloud-powered architect of worlds.  
+I design universes by day, build software by night, and architect entire narrative ecosystems in between.  
+
+Think:  
+✨ **cyberpunk energy**  
+✨ **noir shadows**  
+✨ **neon-lit code**  
+✨ **AI-powered worldbuilding**  
+✨ **Rebel energy with clean engineering discipline**
+
+I’m turning my multi-brand creative empire into a fully-tooled technological powerhouse.
+
+---
+
+## ⚡️ **Skills (Leveling Up Fast)**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50"/>
+</p>
+
+---
+
+## 🔮 **Focus Fields**
+- Full Stack Development (JavaScript, Python, C#, Go)
+- Game Engineering (Unity + Unreal Blueprint)
+- AI-assisted storytelling systems  
+- Worldbuilding engines  
+- Backend APIs + microservices  
+- Dream architecture (yes, literally)  
+- Cloud fundamentals (incoming 2028)
+
+---
+
+## 💀 **Current Projects**
+### 🚀 **god-Tier Story Spark**
+AI-powered story generator app + GPT suite for authors, screenwriters, and worldbuilders.  
+> Building the full-stack standalone version in public.
+
+### 🕹️ **Rebel Ragdoll Games**
+Indie game development + future console architecture research.  
+Narrative-driven, psychologically intense, cyber-fantasy experiences.
+
+### 📚 **SODOM**
+Dystopian-noir megaverse with multi-layered lore, gangs, politics, and supernatural tech.  
+Slow-burn romance + ultraviolence + world decomposition.
+
+---
+
+## 🧬 **My Stats (Neon Mode)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godtierstorytelling-ctrl&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godtierstorytelling-ctrl&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🖤 **Links from the Dark Net**
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/godtierstorytelling-ctrl?tab=repositories"><img src="https://img.shields.io/badge/My%20Repos-333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## ⚔️ **Cyber-Noir Code Philosophy**
+> “Write like a poet.  
+> Architect like a general.  
+> Code like a shadow slipping between firewalls.”
+
+Always building.  
+Always evolving.  
+Always leveling up.
+
+---
+
+<h3 align="center">🖤✨ Welcome to my realm. Watch this space — it’s only the beginning. ✨🖤</h3>
