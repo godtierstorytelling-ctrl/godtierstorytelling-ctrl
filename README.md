@@ -36,7 +36,7 @@ I’m turning my multi-brand creative empire into a fully-tooled technological p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50"/>
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" height="50"/>
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unreal/unreal-original.svg" height="50"/>
 </p>
 
 ---
