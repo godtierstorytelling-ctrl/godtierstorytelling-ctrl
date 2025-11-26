@@ -24,24 +24,30 @@ I’m turning my multi-brand creative empire into a fully-tooled technological p
 
 ---
 
-## ⚡️ **Skills (Leveling Up Fast)**
+## ⚡️ Current Skills (Cyber-Noir Certified)
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/javascript.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/reactjs.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/python.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/go.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/csharp.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/nodejs.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/mongodb.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/postgresql.svg" height="50"/>
 </p>
+
+## ⚡️ Skills Coming Soon!
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/unreal-engine.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/canva.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/wordpress.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/adobe-photoshop.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/adobe-illustrator.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/tech-stack-icons/icons/adobe-after-effects.svg" height="50"/>
+</p>
+
 
 ---
 
