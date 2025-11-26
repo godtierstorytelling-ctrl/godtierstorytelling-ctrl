@@ -1,7 +1,7 @@
 <!-- Cyber Noir Hacker Queen Profile README -->
 
-<h1 align="center">🖤⚡️ Vanisha “god-Tier” Pierce ⚡️🖤</h1>
-<h3 align="center">Full Stack Developer • Game Dev • Story Architect • Cyber-Noir Code Witch</h3>
+<h1 align="center">🖤⚡️ Nisha Renée Pierce ⚡️🖤</h1>
+<h3 align="center">Full Stack Developer • Game Dev • Story Architect • Sci-fi Noir Storyteller</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23BB86FC&size=22&center=true&vCenter=true&width=600&lines=Building+worlds+in+code+and+fiction.;Full+Stack+Engineer+in+progress.;Game+dev%2C+AI%2C+and+storycraft.;Rebel+Ragdoll+Games+%26+god-Tier+Storytelling.;Cyber+Noir+Dev+Queen+loading...">
@@ -57,12 +57,13 @@ AI-powered story generator app + GPT suite for authors, screenwriters, and world
 > Building the full-stack standalone version in public.
 
 ### 🕹️ **Rebel Ragdoll Games**
-Indie game development + future console architecture research.  
-Narrative-driven, psychologically intense, cyber-fantasy experiences.
+Indie 3D game development + future console architecture design.  
+Narrative-driven, psychologically intense, breakneck, action-packed, cyber-noir experiences.
 
-### 📚 **SODOM**
+### 📚 **SODOM: Episode 1**
 Dystopian-noir megaverse with multi-layered lore, gangs, politics, and supernatural tech.  
 Slow-burn romance + ultraviolence + world decomposition.
+Action. Hard choices. Thrills for days.
 
 ---
 
