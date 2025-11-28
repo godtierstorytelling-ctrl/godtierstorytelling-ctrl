@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer • AI Engineer • Game Dev • Story Architect • Sci-fi Noir Storyteller</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23BB86FC&size=22&center=true&vCenter=true&width=600&lines=Building+worlds+in+code+and+fiction.;Full+Stack+Engineer+in+progress.;AI+Engineer+rising+like+a+Black+phoneix.;Game+dev%2C+AI%2C+and+storycraft.;Rebel+Ragdoll+Games+%26+god-Tier+Storytelling.;Cyber+Noir+Dev+Queen+loading...">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23BB86FC&size=22&center=true&vCenter=true&width=600&lines=Building+worlds+in+code+and+fiction.;Full+Stack+Engineer+&+AI+Engineer+in+progress.;Game+dev%2C+AI%2C+and+storycraft.;Rebel+Ragdoll+Games+%26+god-Tier+Storytelling.;Cyber+Noir+Dev+Queen+loading...">
 </p>
 
 ---
