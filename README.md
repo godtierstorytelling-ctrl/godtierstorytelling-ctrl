@@ -1,7 +1,7 @@
 <!-- Cyber Noir Hacker Queen Profile README -->
 
 <h1 align="center">🖤⚡️ Nisha Renée Pierce ⚡️🖤</h1>
-<h3 align="center">Full Stack Developer • Game Dev • Story Architect • Sci-fi Noir Storyteller</h3>
+<h3 align="center">Full Stack Developer • AI Engineer • Game Dev • Story Architect • Sci-fi Noir Storyteller</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23BB86FC&size=22&center=true&vCenter=true&width=600&lines=Building+worlds+in+code+and+fiction.;Full+Stack+Engineer+in+progress.;Game+dev%2C+AI%2C+and+storycraft.;Rebel+Ragdoll+Games+%26+god-Tier+Storytelling.;Cyber+Noir+Dev+Queen+loading...">
@@ -10,7 +10,7 @@
 ---
 
 ## 🖤 **Who I Am**
-A story engineer evolving into a full-stack, game-dev, cloud-powered architect of worlds.  
+A story engineer evolving into a full-stack, game-dev, cloud-powered, AI-driven architect of worlds.  
 I design universes by day, build software by night, and architect entire narrative ecosystems in between.  
 
 Think:  
